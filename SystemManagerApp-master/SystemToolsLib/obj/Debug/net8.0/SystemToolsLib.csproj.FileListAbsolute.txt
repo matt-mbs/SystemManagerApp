@@ -1,0 +1,12 @@
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\bin\Debug\net8.0\SystemToolsLib.deps.json
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\bin\Debug\net8.0\SystemToolsLib.dll
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\bin\Debug\net8.0\SystemToolsLib.pdb
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\SystemToolsLib.csproj.AssemblyReference.cache
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\SystemToolsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\SystemToolsLib.AssemblyInfoInputs.cache
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\SystemToolsLib.AssemblyInfo.cs
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\SystemToolsLib.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\SystemToolsLib.dll
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\refint\SystemToolsLib.dll
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\SystemToolsLib.pdb
+C:\Users\Matt\Source\Repos\SystemToolsLib\SystemToolsLib\obj\Debug\net8.0\ref\SystemToolsLib.dll

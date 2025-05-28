@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemManagerApp", "SystemManagerApp\SystemManagerApp.csproj", "{47473916-0B2D-4187-B443-BCACF41F2FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemToolsLib", "..\SystemToolsLib\SystemToolsLib\SystemToolsLib.csproj", "{D0C43321-CE6C-3F97-EA13-C9CC26B5D19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47473916-0B2D-4187-B443-BCACF41F2FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47473916-0B2D-4187-B443-BCACF41F2FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47473916-0B2D-4187-B443-BCACF41F2FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47473916-0B2D-4187-B443-BCACF41F2FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C43321-CE6C-3F97-EA13-C9CC26B5D19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C43321-CE6C-3F97-EA13-C9CC26B5D19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C43321-CE6C-3F97-EA13-C9CC26B5D19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C43321-CE6C-3F97-EA13-C9CC26B5D19F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF3264E6-A830-4854-A35E-7603B06F3280}
+	EndGlobalSection
+EndGlobal
